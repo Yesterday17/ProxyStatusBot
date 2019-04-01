@@ -1,0 +1,19 @@
+{
+  "name": "proxy-status-bot",
+  "version": "1.0.0",
+  "description": "Display data from ProxyStatusChecker in telegram.",
+  "main": "index.js",
+  "repository": "https://github.com/Yesterday17/ProxyStatusBot.git",
+  "author": "Yesterday17 <t@yesterday17.cn>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn index.js"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.30.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
