@@ -7,7 +7,7 @@
   "author": "Yesterday17 <t@yesterday17.cn>",
   "license": "MIT",
   "scripts": {
-    "start": "yarn index.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "@types/node-telegram-bot-api": "^0.30.4"
